@@ -1,0 +1,8 @@
+git init
+git add . - добавить файлы (// git add "index html)
+git commit -m "название" - сделать коммит
+git push - опубликовать в сеть
+git remote add origin (https://github.com/Daub5ter/gittest.git) - добавление в гит
+	push -u origin master
+
+git pull - подгрузить все изменения которые были проезведены
